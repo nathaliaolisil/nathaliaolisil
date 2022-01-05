@@ -16,8 +16,8 @@
 - 🧩 fun fact: I love puzzles, the bigger the better 
 
  
-# 💻 Minha Stack
- Essas são algumas das tecnologias que uso no dia a dia
+# 💻 My Stack
+ Some of the technologies I use on a daily basis
 
 <div align="center">   
  <img src="https://www.img.com.br/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" width="100">      
