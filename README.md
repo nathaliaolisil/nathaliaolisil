@@ -6,6 +6,8 @@
 <img src="https://media2.giphy.com/media/cOFB74VjN0OqvRmJGK/giphy.gif?cid=ecf05e47bvvmk4kz16c0bd6vbtw0wn7l5du9iwllm5zgo3x7&rid=giphy.gif&ct=g" width="700px"/>
 </p>
 
+<img align="right" alt="GIF" src="https://jbchost.com.br/madeinjapan/wp-content/uploads/2016/06/totoro.gif" width="300px" />
+
 ## 🌐 About me:
 
 - 🗺 GIS analyst
