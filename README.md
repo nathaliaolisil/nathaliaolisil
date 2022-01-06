@@ -28,7 +28,7 @@
 
 <h3 align="left">💬 How to reach me:</h3>
 <div>
-   <a href="https://www.linkedin.com/comm/in/nathaliaolisil?midToken=AQF4SvPU8PUQGQ&midSig=02L4JDNWdWqq41&trk=eml-jobs_jymbii_digest-header-104-profile&trkEmail=eml-jobs_jymbii_digest-header-104-profile-null-a2uruz%7Eky0m0kvk%7E3k-null-neptune%2Fprofile%7Evanity%2Eview&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BtAZsKU%2F9TvORWMM%2B0lRGBg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/nathaliaolisil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:nathaliaolisil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   <br>
