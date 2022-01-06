@@ -35,7 +35,9 @@
   </div>
   <br>
   <br>
- 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nathaliaolisil&count=3&width=400&unique=true)](https://open.spotify.com/user/nathaliaolisil)
+
+## 🎶 Listening...
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nathaliaolisil&count=3&width=400&unique=true)](https://open.spotify.com/user/nathaliaolisil)
 
 
