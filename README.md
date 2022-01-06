@@ -34,6 +34,6 @@
   <br>
   <br>
  
- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nathaliaolisil&count=1)](https://open.spotify.com/user/nathaliaolisil)
- 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=nathaliaolisil&count=3&width=400&unique=true)](https://open.spotify.com/user/nathaliaolisil)
+
 
